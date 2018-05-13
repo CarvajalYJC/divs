@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="
+css/style.css">
+	<title>8 cajas</title>
+</head>
+<body>
+	<div id="uno"></div> <br>
+	<div id="dos">
+		<div id="tres">
+	<div id="cuatro">
+	<div id="cinco">
+				</div> <br>
+			</div> <br>
+		</div> <br>
+	</div> <br>
+	
+	<div id="seis"></div> 
+	<div id="siete"></div> <br>
+	<div id="ocho"></div> <br>
+	
+</body>
+</html>
