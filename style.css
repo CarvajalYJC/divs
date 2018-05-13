@@ -1,0 +1,75 @@
+body{
+	background-color:#F6CEF5;
+}
+
+#uno{
+	background-color:#FA58AC;
+	height: 50px;
+	width: 50px;
+	display: block;
+	border:solid black;
+
+}
+
+#dos{
+	background-color: #FE2E9A;
+	height:70px;
+	width: 200px;
+	display: block;
+	border:solid black;
+
+}
+
+#tres{
+	background-color: #FF0080;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	border: 1px solid black;
+	margin-left: 12px;
+	margin-top: 7px;
+
+}
+
+#cuatro{
+	background-color: #B4045F;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	border: 1px solid black;
+	margin-left: 61px;
+}
+
+#cinco{
+	background-color: #8A084B;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	border: 1px solid black;
+	margin-left: 61px;
+}
+
+#seis{
+	background-color: #610B38;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	border: solid black;
+}
+
+#siete{
+	background-color: #610B21;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	border: solid black;
+}
+
+#ocho{
+	background-color: #3B0B17;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	border: solid black;
+	margin-top: 10px;
+}
